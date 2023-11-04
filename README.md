@@ -108,7 +108,9 @@ docker run \
 * **首页-游戏-娱乐中心-每日打卡**
 * **每日游戏时长-天天领取3G流量包**
 * **首页-积分查询-游戏任务**
+1）获取appid方法
 
+安卓，手机文件管理器，找到路径为 Unicom/appid 的文件打开复制。
 ```sh
 node index.js unicom --user 131*******12 --password 11****11 --appid f7af****ebb
 ```
